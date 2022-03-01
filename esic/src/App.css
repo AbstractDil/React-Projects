@@ -1,0 +1,10 @@
+
+
+
+.panel-warning,.panel-danger {
+  height:30rem ;
+  border:3px solid red
+}
+.panel-primary{
+  height: 50rem;
+}

@@ -1,0 +1,14 @@
+.panel-footer{
+    padding: 8px;
+      line-height: 20px;
+      position: fixed;
+      text-align: center;
+      width: 100%;
+      font-size: 13px;
+      bottom: 0;
+      left: 0;
+      
+  }
+  .Footer{
+    margin-top: 6rem;
+  }
